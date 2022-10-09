@@ -1,3 +1,3 @@
 # codes
-Java Codes of Various OFF CAMPUS Drives
+Java Codes from various technical aptitude tests
 Just For Educational Purpose
