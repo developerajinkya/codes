@@ -1,3 +1,3 @@
 # codes
-Java Codes from various technical aptitude tests
+Java Codes/Questions from various technical aptitude tests
 Just For Educational Purpose
